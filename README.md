@@ -14,7 +14,7 @@ The model achieves a mAP@0.5 of 82%.
 ## Training on colab
 The data structure on colab has the following form:
 
-![image](https://user-images.githubusercontent.com/30274421/148858190-9daa29bc-1b19-4315-8176-8b9be2c4fa7c.png)
+![image](https://user-images.githubusercontent.com/30274421/148859197-66cd2a13-7245-42a4-bb1e-477d44cf9870.png)
 
 - All the codes are kept in folder "Codes".
 
